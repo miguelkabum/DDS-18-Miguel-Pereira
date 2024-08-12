@@ -1,0 +1,36 @@
+.textTop {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    height: 20vh;
+    background-color: rgb(165, 165, 165);
+}
+
+.container{
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 15px;
+    height: 50vh;
+    width: 100%;
+}
+.content{
+    background-color: green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 20vh;
+    width: 80vh;
+}
+.textDown{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-color: gray;
+    height: 20vh;
+}
